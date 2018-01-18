@@ -1,3 +1,4 @@
+pyspider – 一个强大的爬虫系统。
 pyspider [![Build Status]][Travis CI] [![Coverage Status]][Coverage] [![Try]][Demo]
 ========
 
